@@ -1,6 +1,6 @@
-<div align=center>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JaYoung%20Github&fontSize=90)
-</div>
+
 <img src="https://github-readme-stats.vercel.app/api?username=daffodil7&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffodil7&layout=compact">
 
