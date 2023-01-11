@@ -1,9 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JaYoung%20Github&fontSize=90)
 
-<img src="https://github-readme-stats.vercel.app/api?username=daffodil7&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffodil7&layout=compact">
-
+| <a href="https://github.com/daffodil7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daffodil7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JaYoung's github stats" /></a> | <a href="https://github.com/daffodil7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffodil7&theme=buefy&hide_border=true&hide=jupyter%20notebook&langs_count=5" /></a> |
+| ------------- | ------------- |
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
